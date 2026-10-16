@@ -1,0 +1,22 @@
+<nav>
+  <span>My Resume</span>
+  <a href="#home">หน้าแรก</a>
+  <a href="#about">เกี่ยวกับ</a>
+  <a href="#education">การศึกษา</a>
+  <a href="#skills">ทักษะ</a>
+  <a href="#contact">ช่องทางติดต่อ</a>
+</nav>
+
+<section id="education">
+  <h2>Experience / ประสบการณ์การศึกษา</h2>
+  <table>
+    <tr><th>ปี</th><th>สถานศึกษา</th><th>สาขาวิชา</th></tr>
+    <tr><td>2019-2024</td><td>โรงเรียน...</td><td>วิทย์-คณิต</td></tr>
+  </table>
+</section>
+
+<section id="skills">
+  <h2>Skills</h2>
+  <div>Java ★★★★</div>
+  <div>English ★★★</div>
+</section>
